@@ -126,5 +126,20 @@ duplicate values can be present
 Set- unodered
 no duplicate values
 only one null
+.............................................................................
+Wrapper class
+
+int Integer
+byte Byte
+short Short
+float Float
+double Double
+char character
+boolean Boolean
+..............................................................................
+Retrieving of data in Linked list is slower than array list
+Insertion and deletion is faster in linked list than in array list
+
+
 
 Jagged Array
