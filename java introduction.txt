@@ -126,6 +126,10 @@ duplicate values can be present
 Set- unodered
 no duplicate values
 only one null
+...
+Tree maintains natural order
+Linked hash map is ordered
+Hash map is unordered
 .............................................................................
 Wrapper class
 
@@ -140,6 +144,14 @@ boolean Boolean
 Retrieving of data in Linked list is slower than array list
 Insertion and deletion is faster in linked list than in array list
 
+Java is secured and no pointer is used
 
+..............................................................................
+Thread is used for multitasking
+
+checked and unchecked exception
+uchecked exception have rare exception
+join allows one thread to wait until curent thread completes its task
+..............................................................................
 
 Jagged Array
