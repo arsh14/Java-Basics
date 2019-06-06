@@ -14,18 +14,18 @@ Polymorphism- Achieved by function overloading and function overwriting.
 
 Ecllipse is integrated development environment
 Java is non pure OOP language as it uses primitive datatype(float , double) not class.
-........................................................................
-Printis a memeber of printstream
+...........................................................................................................................
+
+Print is a memeber of printstream
 out is a static member of system
 out is object of printstream
 
-...................................................................
-
+...........................................................................................................................
 For decimal value we use float and double
 for integer we use byte short int long
 char for character
 boolean for true and false
-..........................................................................
+
 
 object is a base class of java
 String is a class
@@ -36,12 +36,12 @@ String is a class
 static is compile time allocation
 dynamic is runtime allocation
 
-...........................................................................
+..................................................................................
 array in java is defined as
 int ar[];
 ar=new int [5];
 ar.length()
-............................................................................
+
 default value during dynamic allocation is 
 string->null
 int->0
